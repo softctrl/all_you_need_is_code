@@ -17,7 +17,10 @@ Code, code, code
 ```
 
 
-Here i will put all valuabe document and books about code
+### [Books](https://github.com/softctrl/all_you_need_is_code/tree/master/books)
 
+## [Programming Languages](https://github.com/softctrl/all_you_need_is_code/tree/master/books/programming-languages)
 
-:D
+# [C++](https://github.com/softctrl/all_you_need_is_code/tree/master/books/CPP)
+
+[Silvio do Lago Pereira, D.Sc.](https://github.com/softctrl/all_you_need_is_code/raw/master/books/CPP/slago-C%2B%2B.pdf)/[Origem](http://www.ime.usp.br/~slago/)
