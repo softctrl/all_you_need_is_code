@@ -30,3 +30,7 @@ Code, code, code
 #[RAID](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/)
 
 [IBM Power Systems RAID Solutions Introduction and Technical Overview](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/redp5234.pdf)
+
+
+## [Cryptography & Security](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/cryptography/)
+[Marc Stevens-Attacks on Hash Functions and Applications](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/cryptography/Marc%20Stevens%20-%20Attacks%20on%20Hash%20Functions%20and%20Applications.pdf)
