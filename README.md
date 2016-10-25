@@ -31,6 +31,8 @@ Code, code, code
 
 [IBM Power Systems RAID Solutions Introduction and Technical Overview](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/redp5234.pdf)
 
+[KVM Virtualization in RHEL 7 Made Easy](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/virtualization/KVM_Virtualization_in_RHEL_7_Made_Easy.pdf)
+
 
 ## [Cryptography & Security](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/cryptography/)
 [Marc Stevens-Attacks on Hash Functions and Applications](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/cryptography/Marc%20Stevens%20-%20Attacks%20on%20Hash%20Functions%20and%20Applications.pdf)
