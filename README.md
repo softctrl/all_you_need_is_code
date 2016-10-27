@@ -27,6 +27,10 @@ Code, code, code
 
 ## [Technical Books](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical)
 
+#[Security](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/security/)
+
+[Micros-segmentação(Para Leigos)](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/security/Q1%202016%20NSX%20LATAM%20Paid%20Social_LP.pdf)
+
 #[Architecture](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/architecture/)
 
 [Reactive Microservices Architecture-Design Principles for Distributed Systems](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/architecture/Reactive_Microservices_Architecture.pdf)
