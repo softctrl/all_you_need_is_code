@@ -25,6 +25,10 @@ Code, code, code
 
 [Silvio do Lago Pereira, D.Sc.](https://github.com/softctrl/all_you_need_is_code/raw/master/books/CPP/slago-C%2B%2B.pdf)/[Origem](http://www.ime.usp.br/~slago/)
 
+# [Perl](https://github.com/softctrl/all_you_need_is_code/raw/master/books/programming-languages/PERL/)
+
+[Beginning Perl](https://github.com/softctrl/all_you_need_is_code/raw/master/books/programming-languages/PERL/)
+
 ## [Technical Books](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical)
 
 #[Security](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/security/)
