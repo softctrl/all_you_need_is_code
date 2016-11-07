@@ -29,6 +29,10 @@ Code, code, code
 
 [Beginning Perl](https://github.com/softctrl/all_you_need_is_code/raw/master/books/programming-languages/PERL/)
 
+# [Python](https://github.com/softctrl/all_you_need_is_code/raw/master/books/programming-languages/python/)
+
+[Pandas Library](https://github.com/softctrl/all_you_need_is_code/raw/master/books/programming-languages/python/pandas/pandas.pdf)
+
 ## [Technical Books](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical)
 
 #[Security](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/security/)
