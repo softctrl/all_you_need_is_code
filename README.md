@@ -29,6 +29,10 @@ Code, code, code
 
 [An introduction to Multi Threaded Programming with POSIX Threads and Linux](https://github.com/softctrl/all_you_need_is_code/raw/master/books/programming-languages/C/threads.pdf)
 
+# [Golang](https://github.com/softctrl/all_you_need_is_code/raw/master/books/programming-languages/golang)
+
+[Effective Go - The Go Programming Language.pdf](https://github.com/softctrl/all_you_need_is_code/raw/master/books/programming-languages/golang/Effective%20Go%20-%20The%20Go%20Programming%20Language.pdf)
+
 # [Perl](https://github.com/softctrl/all_you_need_is_code/raw/master/books/programming-languages/PERL/)
 
 [Beginning Perl](https://github.com/softctrl/all_you_need_is_code/raw/master/books/programming-languages/PERL/)
