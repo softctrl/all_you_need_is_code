@@ -43,6 +43,10 @@ Code, code, code
 
 ## [Technical Books](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical)
 
+#[Database](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/database)
+
+[ODBC Guide and Reference](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/database/DSNOD0G2.PDF)
+
 #[Security](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/security/)
 
 [Micros-segmentação(Para Leigos)](https://github.com/softctrl/all_you_need_is_code/raw/master/books/technical/security/Q1%202016%20NSX%20LATAM%20Paid%20Social_LP.pdf)
