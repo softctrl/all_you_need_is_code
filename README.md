@@ -21,6 +21,10 @@ Code, code, code
 
 ## [Programming Languages](https://github.com/softctrl/all_you_need_is_code/tree/master/books/programming-languages)
 
+# [AWK](https://github.com/softctrl/all_you_need_is_code/raw/master/books/programming-languages/awk)
+
+[The AWK Programming Language](https://github.com/softctrl/all_you_need_is_code/raw/master/books/programming-languages/awk/The_AWK_Programming_Language.pdf)
+
 # [C++](https://github.com/softctrl/all_you_need_is_code/tree/master/books/CPP)
 
 [Silvio do Lago Pereira, D.Sc.](https://github.com/softctrl/all_you_need_is_code/raw/master/books/CPP/slago-C%2B%2B.pdf)/[Origem](http://www.ime.usp.br/~slago/)
